@@ -1,0 +1,32 @@
+## Features
+
+- [ ]  Order taking
+- [ ]  Menu display
+- [ ]  Order summary
+- [ ]  Income tracking
+
+## Tech stack
+
+React
+
+Vite 
+
+## State Management
+
+Context API
+
+## Styling
+
+Vanilla CSS
+
+Tailwind CSS
+
+## **Data Flow**
+
+**Menu:** Display items.
+
+**Order:** Add/remove items, update state.
+
+**Order Summary:** Calculate total.
+
+**Income Tracker:** Update total income.
